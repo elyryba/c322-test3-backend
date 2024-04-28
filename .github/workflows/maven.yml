@@ -41,4 +41,3 @@ jobs:
           docker build -t ghcr.io/elyryba/c322-test3-backend:latest --file Dockerfile .  
           docker push ghcr.io/elyryba/c322-test3-backend:latest
 
-          
